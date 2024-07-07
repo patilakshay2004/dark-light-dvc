@@ -208,6 +208,9 @@ a{
   border: none;
   border-radius: 0.5rem;
 }
+.download-btn button i{
+  font-size: 0.925rem;
+}
 
 .wp-call-btn button{
   margin-right: 0.2rem;
@@ -308,6 +311,7 @@ footer{
   .experience-content{
     font-size: var(--small-font-size);
   }
+  
   .wp-call-btn{
     display: flex;
   }
