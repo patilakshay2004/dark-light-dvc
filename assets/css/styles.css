@@ -121,6 +121,13 @@ a{
 }
 .moon-icon i{
   font-size: 1.2rem;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .moon-icon i:hover{
   color: lightskyblue;
